@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  color: #333;
+  margin: 20px;
+}
+
+.main-header {
+  background-color: #007acc;
+  padding: 10px;
+  color: white;
+  border-radius: 8px;
+}
+
+#group-name {
+  font-size: 24px;
+  text-align: center;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.description {
+  font-weight: bold;
+}
+
+.code-line {
+  font-family: "Courier New", monospace;
+  color: #007700;
+}
